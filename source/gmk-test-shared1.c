@@ -6,7 +6,7 @@
 
 void gmk_test_shared1(void)
 {
-	printf("gmk_test_shared1\n");
+	printf("gmk_test_shared1()\n");
 
 	gmk_test_shared2(5, "gmk_test_shared1");
 }
